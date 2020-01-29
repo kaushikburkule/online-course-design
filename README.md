@@ -2,15 +2,8 @@
 
 Android app design for education application
 
-<div align="start">
-    <img src="https://github.com/kaushikburkule/EducationAppDesign/blob/master/screenshot/blck-scr.png" width="400px" height="700px></img> 
-</div>
-
-<div align="center">
-    <img src="https://github.com/kaushikburkule/EducationAppDesign/blob/master/screenshot/white-scr.png" width="400px" height="700px></img> 
-</div>
-
-<br>
+![image](https://github.com/kaushikburkule/EducationAppDesign/blob/master/screenshot/blck-scr.png)
+![image](https://github.com/kaushikburkule/EducationAppDesign/blob/master/screenshot/white-scr.png)
 
 ## Getting Started
 
