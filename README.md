@@ -25,7 +25,9 @@ Say what the step will be
 3. Run on your devices
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+<div align="center">
+    <img src="https://github.com/kaushikburkule/EducationAppDesign/blob/master/screenshot/blck-scr.png" width="400px"</img> 
+</div>
 
 ## Running the tests
 
