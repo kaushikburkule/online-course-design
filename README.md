@@ -2,8 +2,8 @@
 
 Android app design for education application
 
-![image](https://github.com/kaushikburkule/EducationAppDesign/blob/master/screenshot/blck-scr.png)
-![image](https://github.com/kaushikburkule/EducationAppDesign/blob/master/screenshot/white-scr.png)
+![image](https://github.com/kaushikburkule/EducationAppDesign/blob/master/screenshot/blck-scr.png) = 100*400
+![image](https://github.com/kaushikburkule/EducationAppDesign/blob/master/screenshot/white-scr.png) = 100 * 400
 
 ## Getting Started
 
