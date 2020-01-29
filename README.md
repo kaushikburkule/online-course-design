@@ -2,11 +2,10 @@
 
 Android app design for education application
 
-![image](https://github.com/kaushikburkule/EducationAppDesign/blob/master/screenshot/blck-scr.png) ![image](https://github.com/kaushikburkule/EducationAppDesign/blob/master/screenshot/white-scr.png)
-
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+Screen shot are available in screenshot folder
 
 ### Prerequisites
 
@@ -52,3 +51,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * All post are described on my instagram page
+* https://www.instagram.com/androgynousis/
