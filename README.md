@@ -2,6 +2,14 @@
 
 Android app design for education application
 
+<div align="start">
+    <img src="https://github.com/kaushikburkule/EducationAppDesign/blob/master/screenshot/blck-scr.png" width="400px" height="700px></img> 
+</div>
+
+<div align="center">
+    <img src="https://github.com/kaushikburkule/EducationAppDesign/blob/master/screenshot/blck-scr.png" width="400px" height="700px></img> 
+</div>
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -24,10 +32,6 @@ Say what the step will be
 2. Download the dependancies
 3. Run on your devices
 ```
-
-<div align="center">
-    <img src="https://github.com/kaushikburkule/EducationAppDesign/blob/master/screenshot/blck-scr.png" width="400px"</img> 
-</div>
 
 ## Running the tests
 
